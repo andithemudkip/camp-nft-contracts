@@ -1,0 +1,7 @@
+
+{"chainId":325000,"type":"DEPLOYMENT_INITIALIZE"}
+{"artifactId":"ERC721Module#ERC721","constructorArgs":[],"contractName":"ERC721","dependencies":[],"from":"0x5cb5d140fbdfa59563e6bdc966d97296b0b61653","futureId":"ERC721Module#ERC721","futureType":"NAMED_ARTIFACT_CONTRACT_DEPLOYMENT","libraries":{},"strategy":"basic","strategyConfig":{},"type":"DEPLOYMENT_EXECUTION_STATE_INITIALIZE","value":{"_kind":"bigint","value":"0"}}
+{"futureId":"ERC721Module#ERC721","networkInteraction":{"data":"0x","id":1,"type":"ONCHAIN_INTERACTION","value":{"_kind":"bigint","value":"0"}},"type":"NETWORK_INTERACTION_REQUEST"}
+{"futureId":"ERC721Module#ERC721","networkInteractionId":1,"nonce":0,"transaction":{"fees":{"maxFeePerGas":{"_kind":"bigint","value":"1000506"},"maxPriorityFeePerGas":{"_kind":"bigint","value":"1000000"}},"hash":"0x904a3b7f62ea19c5ddb2d789a9c6b8f9a4a4b0912090e5ffdb095c72c1b88dd6"},"type":"TRANSACTION_SEND"}
+{"futureId":"ERC721Module#ERC721","hash":"0x904a3b7f62ea19c5ddb2d789a9c6b8f9a4a4b0912090e5ffdb095c72c1b88dd6","networkInteractionId":1,"receipt":{"blockHash":"0xadda296e9cd19697d281f54ac6dfa51c87af132e7ea2dacbc38099166cf2fefa","blockNumber":186463,"contractAddress":"0xA2f7C18d17Be1a03F6837EB3D8Db10a247C14f20","logs":[],"status":"SUCCESS"},"type":"TRANSACTION_CONFIRM"}
+{"futureId":"ERC721Module#ERC721","result":{"address":"0xA2f7C18d17Be1a03F6837EB3D8Db10a247C14f20","type":"SUCCESS"},"type":"DEPLOYMENT_EXECUTION_STATE_COMPLETE"}

@@ -1,0 +1,15 @@
+{
+    "name": "sparks-contracts",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "hardhat": "^2.22.5"
+    },
+    "scripts": {
+        "compile": "npx hardhat compile",
+        "test": "npx hardhat test",
+        "deploy": "npx hardhat ignition deploy ./ignition/modules/ERC721.js --network camptestnet"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^5.0.2"
+    }
+}
